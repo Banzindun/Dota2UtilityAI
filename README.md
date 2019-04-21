@@ -1,9 +1,7 @@
 
-# DOTA 2 AI FRAMEWORK
-**a framework for Dota 2 agent development** 
+# DOTA 2 Utility Agents
 
 ## About
-Welcome to the landing page of Dota 2 AI Framework. The framework allows you to create inteligent agents for the Dota 2 video game.
 
 ## Requirements
 Steam account
@@ -15,13 +13,7 @@ Java (IDE)
 
 ## Usage
 
-## How can you help?
-I will be grateful for any feedback you can offer. 
-
-## Credits
-
 ## Licensing
-
 
 ## TODO list: 
 
